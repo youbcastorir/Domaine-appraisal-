@@ -1,0 +1,6 @@
+{
+  "name": "DomValuate",
+  "description": "Professional AI-powered domain appraisal, portfolio tracker, and valuation advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
